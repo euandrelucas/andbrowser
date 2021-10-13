@@ -3,5 +3,5 @@
 ## 🙋‍♂️ How run
 > **Execute in the terminal:**
 ```bash
-python main.py
+python3 main.py
 ```
